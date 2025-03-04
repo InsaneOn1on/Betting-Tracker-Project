@@ -1,14 +1,16 @@
 # Betting Tracker GUI
 
 ## by Alex Kendall
-Project Created using Visual Studio to create a Visual basic Windows Form
+A Visual Basic Windows Forms application created using Visual Studio to track betting activity.
 
-I had no issues, only thing was I maded it simpilier by only allowing the user one type of bet entry compared to two types to simplify the program.
+##Project Overview
+This project was developed as part of a capstone project and features a user-friendly interface for managing and analyzing betting records.
 
-https://youtu.be/KrqJJxA8Xiw Capstone Project
+Demo Video:
+https://youtu.be/KrqJJxA8Xiw = Watch on YouTube
 
 Resources Used: 
 
-https://stackoverflow.com/questions/21220384/how-to-delete-a-file-using-vb-net
+Stackoverflow = https://stackoverflow.com/questions/21220384/how-to-delete-a-file-using-vb-net
 
-https://stackoverflow.com/questions/668064/read-multiple-text-files-in-a-folder
+Stackoverflow = https://stackoverflow.com/questions/668064/read-multiple-text-files-in-a-folder
